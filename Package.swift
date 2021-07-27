@@ -19,7 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "AhoyWebRTC",
             url: "https://demo.ahoyrtc.com/AhoyWebRTC.xcframework.1.0.zip",
-            checksum: "d08285bff01c6384b3071c789cd7e4663909f1c57da9054aca437bbdf06f0071"
+            checksum: "22a09660b959c89d477bb429438e0b61c087b8c27842bf6be3e6ef4a44ffedb7"
         )
     ]
 )
